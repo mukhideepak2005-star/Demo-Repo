@@ -1,2 +1,2 @@
 # Demo-Repo
-This is just a demo repo
+This is just a demo repo for understanding git and github.
